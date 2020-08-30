@@ -37,7 +37,7 @@ run();
 });
 app.listen(process.env.PORT||3000,function()
 {
-    console.log("Running");
+    console.log("server is Running on 3000 and heroku");
 });
 
 // d92e99e469
