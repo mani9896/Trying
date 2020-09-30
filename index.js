@@ -50,7 +50,3 @@ app.post("/", function (req, res) {
 app.listen(process.env.PORT || 3000, function () {
   console.log("server is Running on 3000 and heroku");
 });
-
-// d92e99e469
-
-// f5db5f33468d5cf6bc375b01543967c1-us17
